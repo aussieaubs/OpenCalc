@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint": "^4.19.1",
     "react": "16.3.1",
-    "react-native": "^0.55.4",
+    "react-native": "^0.87.0",
     "react-native-easy-toast": "^1.1.0",
     "react-native-swipe-gestures": "^1.0.2"
   },
